@@ -1,0 +1,21 @@
+category_id,category_name,category_group
+GROC,Groceries,Expense
+RENT,Rent/Mortgage,Expense
+UTIL,Utilities,Expense
+GAS,Gas/Transportation,Expense
+AUTO,Auto,Expense
+HLTH,Health,Expense
+INS,Insurance,Expense
+PHON,Phone/Internet,Expense
+DINE,Dining Out,Expense
+ENT,Entertainment,Expense
+SUBS,Subscriptions,Expense
+SHOP,Shopping,Expense
+TRAV,Travel,Expense
+EDU,Education,Expense
+PAY,Paycheck,Income
+SIDE,Side Income,Income
+BONUS,Annual Bonus,Income
+INT,Interest,Income
+CC_PAY,Credit Card Payment,Transfer
+RET401,401(k) Contribution,Transfer
